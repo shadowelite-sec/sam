@@ -1,0 +1,25 @@
+body {
+	background-color: #121212;
+}
+
+h1 {
+	font-size: 40px;
+	color: pink;
+	text-align: center;
+	text-decoration: underline;
+}
+
+img {
+	transition: all .2s ease-in-out;
+}
+
+img:hover {
+	transform: scale(1.5);
+	border: none;
+	box-shadow: 5px 4px 10px #000000;
+
+}
+
+.center {
+	text-align: center;
+}
